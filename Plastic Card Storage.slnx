@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="Plastic Card Storage/Plastic Card Storage.vcxproj" Id="b411a93e-44e4-4fc2-8346-da96a5e81975" />
+</Solution>
