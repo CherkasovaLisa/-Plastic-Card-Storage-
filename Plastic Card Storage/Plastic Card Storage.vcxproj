@@ -139,11 +139,13 @@
     </Manifest>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="BasePassKey.cpp" />
     <ClCompile Include="BasePlasticCard.cpp" />
     <ClCompile Include="CardDataGenerator.cpp" />
     <ClCompile Include="main.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="BasePassKey.h" />
     <ClInclude Include="BasePlasticCard.h" />
     <ClInclude Include="CardDataGenerator.h" />
   </ItemGroup>
