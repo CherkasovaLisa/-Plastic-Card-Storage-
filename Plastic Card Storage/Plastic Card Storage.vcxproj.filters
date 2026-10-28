@@ -24,6 +24,13 @@
     <ClCompile Include="BasePlasticCard.cpp">
       <Filter>Исходные файлы</Filter>
     </ClCompile>
+    <ClCompile Include="CreditCard.cpp">
+      <Filter>Исходные файлы</Filter>
+    </ClCompile>
+    <ClCompile Include="DebitCard.cpp">
+      <Filter>Исходные файлы</Filter>
+    </ClCompile>
+    <ClCompile Include="BaseBankingCard.cpp">
     <ClCompile Include="BasePassKey.cpp">
       <Filter>Исходные файлы</Filter>
     </ClCompile>
@@ -35,6 +42,14 @@
     <ClInclude Include="BasePlasticCard.h">
       <Filter>Файлы заголовков</Filter>
     </ClInclude>
+    <ClInclude Include="DebitCard.h">
+      <Filter>Исходные файлы</Filter>
+    </ClInclude>
+    <ClInclude Include="CreditCard.h">
+      <Filter>Исходные файлы</Filter>
+    </ClInclude>
+    <ClInclude Include="BaseBankingCard.h">
+      <Filter>Исходные файлы</Filter>
     <ClInclude Include="BasePassKey.h">
       <Filter>Файлы заголовков</Filter>
     </ClInclude>
