@@ -31,6 +31,7 @@
       <Filter>Исходные файлы</Filter>
     </ClCompile>
     <ClCompile Include="BaseBankingCard.cpp">
+    <ClCompile Include="BasePassKey.cpp">
       <Filter>Исходные файлы</Filter>
     </ClCompile>
   </ItemGroup>
@@ -49,6 +50,8 @@
     </ClInclude>
     <ClInclude Include="BaseBankingCard.h">
       <Filter>Исходные файлы</Filter>
+    <ClInclude Include="BasePassKey.h">
+      <Filter>Файлы заголовков</Filter>
     </ClInclude>
   </ItemGroup>
 </Project>

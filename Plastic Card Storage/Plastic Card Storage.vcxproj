@@ -140,6 +140,7 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="BaseBankingCard.cpp" />
+    <ClCompile Include="BasePassKey.cpp" />
     <ClCompile Include="BasePlasticCard.cpp" />
     <ClCompile Include="CardDataGenerator.cpp" />
     <ClCompile Include="CreditCard.cpp" />
@@ -148,6 +149,7 @@
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="BaseBankingCard.h" />
+    <ClInclude Include="BasePassKey.h" />
     <ClInclude Include="BasePlasticCard.h" />
     <ClInclude Include="CardDataGenerator.h" />
     <ClInclude Include="CreditCard.h" />
